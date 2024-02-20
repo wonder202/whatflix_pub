@@ -1,0 +1,1 @@
+import{b0 as s,b1 as r,b6 as o}from"./index.5dab455f.js";async function n(t){const a=await s(r(o,"users",t));if(a.exists()){const e=a.data();return{id:t,...e,createAt:e.createAt.toDate()}}return null}export{n as g};

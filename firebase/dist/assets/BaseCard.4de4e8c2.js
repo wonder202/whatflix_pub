@@ -1,0 +1,1 @@
+import{o as r,i as t,k as o,r as d,y as s,ao as l}from"./index.5dab455f.js";const u={__name:"BaseCard",props:{flat:{type:Boolean,default:!0},bordered:{type:Boolean,default:!0}},setup(e){return(a,f)=>(r(),t(l,s({flat:e.flat,bordered:e.bordered},a.$attrs),{default:o(()=>[d(a.$slots,"default")]),_:3},16,["flat","bordered"]))}};export{u as _};

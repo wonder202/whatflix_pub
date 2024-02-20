@@ -1,0 +1,1 @@
+const o=r=>{const{tags:t,updateTags:l,maxLengthMessage:n}=r||{};return{addTag:e=>{const a=typeof e!="string",s=a?e.target.value.replace(/ /g,""):e.replace(/ /g,"");if(!!s){if(t.value.length>=10){$q.notify(n);return}t.value.includes(s)===!1&&l([...t.value,s]),a&&(e.target.value="")}},removeTag:e=>{const a=[...t.value];a.splice(e,1),l(a)}}};export{o as u};

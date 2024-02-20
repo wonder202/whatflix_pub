@@ -1,0 +1,5 @@
+{
+  "auth/invalid-credential": "아이디 혹은 비밀번호를 확인해주세요.",
+  "auth/email-already-in-use": "이미 가입된 회원입니다.",
+  "auth/requires-recent-login": "다시 로그인해주세요."
+}
