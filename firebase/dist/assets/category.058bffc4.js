@@ -1,1 +1,0 @@
-const e=[{label:"\uACF5\uC9C0\uC0AC\uD56D",value:"notice"},{label:"\uB9AC\uBDF0",value:"review"},{label:"\uCEE4\uBBA4\uB2C8\uD2F0",value:"community"},{label:"Q&A",value:"qna"}];function a(){return e}export{a as g};

@@ -8,7 +8,7 @@ import { getFirestore } from 'firebase/firestore';
 import { getStorage } from 'firebase/storage';
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyBdvcZU4OH2B1UfFDQk61pNrG51609fxB0',
+  apiKey: 'AIG5B0',
   authDomain: 'wonder202-vue3-firebase-app.firebaseapp.com',
   projectId: 'wonder202-vue3-firebase-app',
   storageBucket: 'wonder202-vue3-firebase-app.appspot.com',

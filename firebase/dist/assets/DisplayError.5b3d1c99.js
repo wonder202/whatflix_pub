@@ -1,1 +1,0 @@
-import{g as o}from"./error-message.02f68539.js";import{E as s,o as a,d as c,t as n,e as p}from"./index.5dab455f.js";const m={key:0,class:"text-red text-center"},g={__name:"DisplayError",props:{code:{type:String}},setup(e){const t=e,r=s(()=>o(t.code));return(d,i)=>e.code?(a(),c("div",m,n(r.value),1)):p("",!0)}};export{g as _};

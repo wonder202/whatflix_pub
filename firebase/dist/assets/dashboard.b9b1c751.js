@@ -1,1 +1,0 @@
-import{_ as e,o as s,d as a,c as o}from"./index.5dab455f.js";const t={},c=o("div",{class:"text-h4"},"Admin/Dashboard",-1),r=[c];function d(n,_){return s(),a("div",null,r)}var l=e(t,[["render",d]]);export{l as default};

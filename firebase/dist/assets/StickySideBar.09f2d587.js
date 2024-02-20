@@ -1,1 +1,0 @@
-import{_ as r,o as s,d as t,r as _}from"./index.5dab455f.js";const a={},c={class:"sticky-side-bar"};function d(e,o){return s(),t("aside",c,[_(e.$slots,"default",{},void 0,!0)])}var i=r(a,[["render",d],["__scopeId","data-v-93bee936"]]);export{i as S};

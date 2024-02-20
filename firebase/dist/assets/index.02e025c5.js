@@ -1,1 +1,0 @@
-import{_ as e,o as t,d as c,c as s}from"./index.5dab455f.js";const n={},o=s("div",{class:"text-h4"},"Admin/Index",-1),a=[o];function r(_,d){return t(),c("div",null,a)}var l=e(n,[["render",r]]);export{l as default};
