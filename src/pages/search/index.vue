@@ -48,10 +48,7 @@ import algoliasearch from 'algoliasearch/lite';
 import 'instantsearch.css/themes/algolia-min.css';
 import PostList from 'src/components/apps/post/PostList.vue';
 
-const searchClient = algoliasearch(
-  'E2XL7LT10O',
-  'be2faa804e5cf25459ef3722500156cb',
-);
+const searchClient = algoliasearch('E2XLO', '500156cb');
 
 const transformItems = items => {
   return items.map(item => ({
